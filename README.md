@@ -1,2 +1,4 @@
 # Mi primer repositorio
-# Análisis de datos principal
+
+# Análisis de datos principal y análisis de ventas mejorado
+
